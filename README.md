@@ -1,5 +1,5 @@
 
-# Hi there! 👋 I'm Hesh Wijesinghe
+# Hi there! 👋 I'm Heshan Wijesinghe
 
 ### 👨‍💻 Software Engineering Student | Aspiring Full Stack Developer
 
